@@ -11,7 +11,7 @@ export function QuizHeader() {
           TAP Quiz Builder
         </h1>
       </div>
-      <p className="text-sm text-muted-foreground">by theAsianparent</p>
+      <p className="text-sm text-muted-foreground">by Reza Aulia</p>
     </header>
   )
 }
